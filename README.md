@@ -1,7 +1,7 @@
 # Poker
 
 A Multiplayer Online Poker built on Firebase
-Made By Atishay Jainnb
+Made By Atishay Jain
 
 ## Getting Started
 
