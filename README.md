@@ -1,6 +1,7 @@
-# poker
+# Poker
 
-A new Flutter application.
+A Multiplayer Online Poker built on Firebase
+Made By Atishay Jain
 
 ## Getting Started
 
